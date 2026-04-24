@@ -11,7 +11,8 @@ layout: default
 ## What do people think about having a recorded lecture?
 
 A survey indicates that more students than not would find it at least somewhat helpful if lecture was recorded and posted to the class website. A whopping 358 students in favor versus 176 against or with no opinion. 
-<img src= "personal-site.github.io\static\imgs\image-3.png" alt ="Histogram of Lesson Video Ratings" width="500"/>
+<img src="/static/imgs/image-3.png" alt="Histogram of Lesson Video Ratings" width="500"/>
+>
 Furthermore, the number of individuals who think having some sort of pre-class video would be somewhat beneficial outweighs those opposed with a vote of 388 to 146. 
 !["Histogram of Pre-Lesson Video Ratings"](image-1.png)
 In addition to both of these, when asked about a livestream, 393 students were not opposed, while only 141 were, or were neutral. The raw data indicates that the student body wants lecture, or at least some content from this course, to be recorded.
